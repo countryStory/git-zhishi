@@ -8,7 +8,8 @@
 
   git pull origin daily/0.0.1                   --从远程仓库拉取代码到工作区   
 
-  git push origin daily/0.0.1                   --把本地仓库代码提交到远程仓库    
+  git push origin daily/0.0.1                   --把本地仓库代码提交到远程仓库     
+     
   ----------   
 ### 2.常用命令    
      git branch daily/0.0.1 （创建分之）    
