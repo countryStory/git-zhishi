@@ -12,9 +12,13 @@
      
   ----------   
 ### 2.常用命令    
-     git branch daily/0.0.1 （创建分之）    
-     git checkout daily/0.0.1 （切换分之）     
-     git checkout -b daily/0.0.1 （创建并切换分之） 
+
+     git branch daily/0.0.1 （创建分之）
+     git checkout daily/0.0.1 （切换分之）
+     git checkout -b daily/0.0.1 （创建并切换分之）
+     
+  ----------    
+  
 ### 分之
 git merge daily/0.0.1 （合并到当前分之）    
 
